@@ -35,6 +35,8 @@ Function two to create a variable “b” that is the sum of the same “glob”
 
 Please display the global variable and both local variables. Set your global variable to 1000.
 
+### to test
+`python3 test_freelancer_python.py`
 
 ### ref:
 [https://www.freelancer.com/projects/software-architecture/python-project-17827411/](https://www.freelancer.com/projects/software-architecture/python-project-17827411/)
